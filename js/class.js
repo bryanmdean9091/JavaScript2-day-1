@@ -8,7 +8,6 @@ function pink() {
 function reset() {
     window.location.reload()
 };
-
 function blue() {
     document.querySelector('button').style.backgroundColor = 'blue';
     document.querySelector('button').style.fontSize = '100px';
